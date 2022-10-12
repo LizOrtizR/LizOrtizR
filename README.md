@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-{ “name” : “Maria Elizabeth Ortiz”,
-   “role” : “Frontend Dev | UX Designer”,
-   “data” : 
-     { 
-      "Linkedin" : "https://www.linkedin.com/in/elizabeth-ortiz-ab08381b5/", 
-      "Resume"   : "https://www.paisapues.com/",
-      "IG"       : "https://www.instagram.com/e_ortiz_/"
-     }
- }
+
+Mi nombre es Maria Elizabeth Ortiz. 
  
  
  
@@ -46,7 +39,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
@@ -54,7 +46,7 @@
 </p>
 
 
-### <a href="https://www.instagram.com/e_ortiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_ortiz_" height="30" width="40" /></a>  <a href="https://www.instagram.com/e_ortiz_" target="_blank">Veritechie</a>
+### <a href="https://www.instagram.com/e_ortiz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_ortiz_" height="30" width="40" /></a>  <a href="https://www.instagram.com/e_ortiz_" target="_blank">LizOrtiz</a>
  <a href="https://www.instagram.com/e_ortiz_" target="_blank"></a>
 
 ### 🌱 I'm currently learning... / Web 
