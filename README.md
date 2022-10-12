@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Mi nombre es Maria Elizabeth Ortiz. 
+i'm Maria Elizabeth Ortiz. 
  
  
  
