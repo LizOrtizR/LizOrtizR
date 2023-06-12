@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-i'm Maria Elizabeth Ortiz. 
+I'm Maria Elizabeth Ortiz. 
  
  
  
