@@ -70,6 +70,15 @@ Linkedin
 ---
 
 🏆 Trophy Stats 🔝
+<table>
+ <tr>
+ <td valing="top">
+  <img src= "https://github-profile-trophy.vercel.app/?username=LizOrtizR">
+ </td>
+  
+ </tr>
+</table>
+
 
 
 ### Github Stats:
